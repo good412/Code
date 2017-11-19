@@ -1,0 +1,3 @@
+To run the MultiNMF algorithm you can simply execute the script: run.m.
+The data file handwritten.mat is an example telling you what the format of the input is and what we do within the preprocess of the program.
+
