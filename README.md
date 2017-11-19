@@ -27,8 +27,9 @@
 
 - - -
 
-### Contributing
-
-如果你对本项目感兴趣，非常欢迎你加入！
+List of the algorithms available 
+----------------------------------------------
+* Multilayer NMF (MLNMF) for Spectral Unmixing
+* * Spectral Unmixing of Hyperspectral Imagery Using Multilayer NMF，Convolved Spectral Library for NASA/JPL Airborne Visual and Infra-Red Imaging Spectrometer (AVIRIS)，USGS digital spectral library splib06a: U.S. Geological Survey[website1](http://www.roozbehrajabi.net/Codes.php) 
 
 
