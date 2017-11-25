@@ -26,6 +26,12 @@
 
 ### 2.多视角NMF文章及代码
 
+_ _ _
+
+### 3.NMF代表性研究学者
+
+- [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/)：中文名蔡登。浙江大学计算机系，教授。[[Google scholar](http://scholar.google.com/citations?user=vzxDyJoAAAAJ)]
+
 - - -
 
 List of the algorithms available 
@@ -33,10 +39,6 @@ List of the algorithms available
 * Multilayer NMF (MLNMF) for Spectral Unmixing
 * * Spectral Unmixing of Hyperspectral Imagery Using Multilayer NMF，Convolved Spectral Library for NASA/JPL Airborne Visual and Infra-Red Imaging Spectrometer (AVIRIS)，USGS digital spectral library splib06a: U.S. Geological Survey[website1](http://www.roozbehrajabi.net/Codes.php) 
 
-_ _ _
 
-### 4.NMF代表性研究学者
-
-- [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/)：中文名蔡登。浙江大学计算机系，教授。[[Google scholar](http://scholar.google.com/citations?user=vzxDyJoAAAAJ)]
 
 
