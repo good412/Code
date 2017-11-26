@@ -34,6 +34,15 @@ _ _ _
 
 - - -
 
+
+- - -
+
+### 必读专栏
+
+- 汇总一些经验。
+
+- - -
+
 List of the algorithms available 
 ----------------------------------------------
 * Multilayer NMF (MLNMF) for Spectral Unmixing
