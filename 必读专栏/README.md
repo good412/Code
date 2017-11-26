@@ -5,7 +5,7 @@ _ _ _
 
 _ _ _
 
-> - Multi-view_NMF，出自论文Multi-View Clustering via Joint Nonnegative Matrix Factorization
-- （1）运行可增加对程序的理解。
+> - 
+- 
 
 _ _ _
